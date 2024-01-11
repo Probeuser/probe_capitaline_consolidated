@@ -21,6 +21,7 @@ prefs = {
     "download.prompt_for_download": False,
     "plugins.always_open_pdf_externally": True
 }
+
 chrome_options.add_experimental_option("prefs", prefs)
 
 # chrome_options.add_argument("--headless")
